@@ -1,5 +1,5 @@
 import java.util.*;
-public class firstLetterCap {
+public class firstLetterCapS {
     public static void main(){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a Sentence : ");
