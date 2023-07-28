@@ -1,0 +1,23 @@
+MAP  is a data structure which holds the data as the <key,value> pair
+
+Properties-
+1. keys are unique 
+2. values need not be unique
+
+how map store data :
+Let, Data = SAYAK
+
+key-   S , Y , A , K
+value- 1 , 1 , 2 , 1
+
+create a map :
+
+Map<Character, Integer>map = new HashMap();
+
+using put() - we put the data in the map
+using get() - we get the data from the map
+
+types of MAP : 
+1. HashMap
+2. TreeMap
+3. LinkedHashMap

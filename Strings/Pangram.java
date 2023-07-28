@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// Panagram is a sentense using every letter of a given alphabet at least once
 
 public class Pangram {
     public static void  main(String[] args){
