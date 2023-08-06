@@ -10,7 +10,9 @@ public static void main(String[] args){
     int size = y.length;
     while(i != size){
         if(map.containsKey(y[i]) == false){
+
             map.put(y[i],1);
+        
         }
         else{
             int oldval = map.get(y[i]);
