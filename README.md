@@ -5,9 +5,9 @@ Welcome to the Placement Preparation repository! This repository is designed to 
 ## Table of Contents 📋
 
 - [Introduction](#introduction)
-- [Content](#content)
+- [Content](#content 📚)
 - [How to Use](#how-to-use)
-- [Contribution Guidelines](#contribution-guidelines)
+- [Contribution Guidelines](#contribution-guidelines 🌟)
 
 ## Introduction
 
