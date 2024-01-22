@@ -5,15 +5,15 @@ Welcome to the Placement Preparation repository! This repository is designed to 
 ## Table of Contents 📋
 
 - [Introduction](#introduction)
-- [Content](#content 📚)
+- [Content](#content📚)
 - [How to Use](#how-to-use)
-- [Contribution Guidelines](#contribution-guidelines 🌟)
+- [Contribution Guidelines](#contribution-guidelines🌟)
 
 ## Introduction
 
 In the competitive world of job placements, a strong foundation in Data Structures and Algorithms is crucial. This repository aims to provide a comprehensive resource for DSA concepts and solutions to frequently asked problems in Java.
 
-## Content 📚
+## Content📚
 
 The repository is organized into various sections, covering different DSA topics and important problems. The content is structured to help you build a solid understanding of fundamental concepts and improve problem-solving skills.
 
@@ -44,7 +44,7 @@ The repository is organized into various sections, covering different DSA topics
    ```bash
    git clone https://github.com/sayakdeepghosh01/placement_DSA_kicks.git
 
-## Contribution Guidelines 🌟
+## Contribution Guidelines🌟
 
 Contributions are welcome! If you have additional problems, solutions, or improvements, please follow these guidelines:
 
